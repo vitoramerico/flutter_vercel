@@ -42771,7 +42771,7 @@ N.SC.prototype={
 $1:function(a){return!0},
 $S:32}
 F.vg.prototype={
-K:function(a,b){return new S.nS(new F.o4("Flutter Demo Home Page",null),"Flutter Demo",X.Yt(null,C.lJ),null)}}
+K:function(a,b){return new S.nS(new F.o4("Home Page",null),"Flutter com Vercel",X.Yt(null,C.lJ),null)}}
 F.o4.prototype={
 aI:function(){return new F.qu(C.l)}}
 F.qu.prototype={
